@@ -126,4 +126,6 @@ ssh user@your-codespace-ip
 
 ## Conclusion
 
+## Please use with your own dissociation.I do not know that cost was free or paid.
+
 ### With these steps, you should be able to connect to your GitHub Codespace via SSH from Termux on your Android device. If you encounter any issues, ensure your SSH server is running and that you're using the correct IP address and credentials.
