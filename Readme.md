@@ -1,6 +1,7 @@
 ## 🧸GitHub Codespaces and connecting from Termux on Android:
 
-### Fork this repo 
+### Fork my blank repo
+[github](https://github.com/codespaces)
 ### You didn't any development level.
 
 # Setting Up SSH Server in GitHub Codespaces
