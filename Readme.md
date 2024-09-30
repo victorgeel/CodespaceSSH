@@ -2,7 +2,7 @@
 
 ### Fork my blank repo
 
-## Badges
+## Just click Badges
 
 ### GitHub Repository
 [![GitHub](https://img.shields.io/badge/GitHub-victorgeel%2FCodespaceSSH-blue)](https://github.com/victorgeel/CodespaceSSH)
