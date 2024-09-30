@@ -115,6 +115,14 @@ ssh user@your-codespace-ip
 
 ### Keep Alive: Since Codespaces can time out, you may want to look into settings that prevent the session from closing if you're frequently accessing it.
 
+## Screenshots
+
+### Codespace
+![Screenshot of Codespace](https://github.com/victorgeel/CodespaceSSH/blob/main/Screenshot_20240930_192540_Chrome.png)
+
+### Settings
+![Screenshot of Settings](https://github.com/victorgeel/CodespaceSSH/blob/main/Screenshot_20240930_192614_Chrome.png)
+
 
 ## Conclusion
 
